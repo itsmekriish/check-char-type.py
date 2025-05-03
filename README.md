@@ -1,0 +1,1 @@
+# check-char-type.py
